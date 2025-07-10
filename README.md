@@ -48,7 +48,12 @@
 
 ---
 
-[![Watch the demo](https://img.youtube.com/vi/4MpIu9rXHUQ/maxresdefault.jpg)](https://youtu.be/4MpIu9rXHUQ)
+
+📽️ Live Demo
+See CollabCal in action:
+
+[![Watch the demo](https://img.youtube.com/vi/yjbY4ZWeylE/maxresdefault.jpg)](https://youtu.be/yjbY4ZWeylE)
+
 
 ---
 
